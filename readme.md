@@ -492,6 +492,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Freenet](https://freenetproject.org/) - Peer-to-peer platform for censorship-resistant communication and publishing. ![Open Source][oss]
 - [Kristall](https://github.com/MasterQ32/kristall) - GUI client for MacOS for gemini, http, https, gopher, finger. ![Open Source][oss]
 - [RerouteMe](https://naden.co) - One-click macOS Proxy Configuration app. ![Free][free]
+- [Rockxy](https://rockxy.io/) - Open-source HTTP/HTTPS debugging proxy with traffic inspection, breakpoints, and request replay. ![Open Source][oss] ![Dollar][mon]
 
 ### IRC Clients
 
