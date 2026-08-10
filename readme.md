@@ -891,6 +891,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave. ![Open Source][oss]
 - [Security Growler](https://pirate.github.io/security-growler/) - Notifies you whenever security events occur on your machine. ![Open Source][oss]
+- [Shieldxy](https://rockxy.io/shieldxy) - Native macOS application firewall for monitoring and controlling app-aware outbound connections. ![Open Source][oss]
 - [Squidman](https://squidman.net/squidman/) - Graphical installer and manager for the Squid proxy cache. ![Free][free]
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac. ![Free][free]
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
