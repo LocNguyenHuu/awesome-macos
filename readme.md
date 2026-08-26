@@ -678,7 +678,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Hosts management & switching. ![Open Source][oss]
 - [Termius](https://www.termius.com/) - SSH client that works on Desktop and Mobile. ![Dollar][mon]
-- [Tracexy](https://rockxy.io/tracexy) - Native macOS network intelligence app for investigating live traffic and PCAP/PCAPNG captures. ![Open Source][oss]
+- [Tracexy](https://rockxy.io/tracexy) - Native, local-first network intelligence for investigating live traffic and PCAP or PCAPNG captures as app-aware sessions. ![Open Source][oss] ![Free][free] & ![Dollar][mon]
 - [Transfer](https://www.intuitibits.com/products/transfer/) - TFTP server for your Mac. ![Dollar][mon]
 - [Transmission](https://transmissionbt.com/download/) - Easy, free BitTorrent client. ![Open Source][oss]
 - [Usenapp](https://www.usenapp.com/) - The most complete usenet client for macOS. ![Dollar][mon]
